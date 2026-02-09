@@ -1,2 +1,2 @@
 # tc_assistant
-Test Case Design assistant for V&amp;V
+test case design assistant for V&V
